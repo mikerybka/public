@@ -1,6 +1,6 @@
 package contacts
 
-type Root struct {
+type Book struct {
     Friends map[string]Person
     Coworkers map[string]Person
 }
